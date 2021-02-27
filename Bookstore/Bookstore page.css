@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bookstore-home-bg-container {
+    background-color: #06070d;
+    padding: 18px;
+}
+
+.homepage-main-heading {
+    font-size: 28px;
+    color: white;
+    font-family: "Bree Serif";
+
+}
+
+.bookstore-homepage-top-card {
+    background-color: #e6f6ff;
+    font-family: "bree Serif ";
+    border-radius: 8px;
+}
+
+.bookstore-top-card-image {
+    width: 30vw;
+}
+
+.bookstore-top-content-card {
+    padding: 20px;
+    font-family: "bree Serif";
+}
+
+.top-card-book-name {
+    color: #183b56;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.top-card-about {
+    color: #06070d;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.top-card-author {
+    font-size: 11px;
+    color: #183b56;
+    font-weight: 500;
+}
+
+.bookstore-button {
+    border-radius: 5px;
+    width: 80px;
+    height: 36px;
+    background-color: #0aa6f5;
+    font-size: 11px;
+    font-family: "Roboto";
+    border-width: 0px;
+    color: white;
+}
+
+.bookstore-sub-heading {
+    color: white;
+    font-size: 18px;
+    font-family: "Bree Serif";
+    padding-top: 8px;
+}
+
+.bookstore-bottom-card {
+    padding-bottom: 10px;
+}
+
+.bookstore-bottom-card-image {
+    width: 22vw;
+}
+
+.bookstore-bottom-content-card {
+    padding-left: 15px;
+    font-family: "bree Serif";
+}
+
+.bottom-card-book-name {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.bottom-card-about {
+    color: white;
+    font-size: 10px;
+}
+
+.bottom-card-author {
+    font-size: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.detailspage-bg-container {
+    background-color: #1b1b1b;
+    padding: 18px;
+    text-align: center;
+}
+
+.detailspage-image {
+    width: 45vw;
+    margin-bottom: 13px;
+}
+
+.detailspage-heading {
+    font-size: 23px;
+    color: white;
+    font-family: "bree Serif";
+    font-weight: 500;
+}
+
+.detailspage-author {
+    font-family: "bree Serif";
+    font-size: 12px;
+    color: #9aa5b1;
+
+}
+
+.detailspage-paragraph {
+    font-family: "bree Serif";
+    text-align: left;
+    font-size: 11px;
+    color: #ffffff;
+}
+
+.bookstore-back-button {
+    border-radius: 5px;
+    width: 60px;
+    height: 36px;
+    font-size: 11px;
+    font-family: "Roboto";
+}
